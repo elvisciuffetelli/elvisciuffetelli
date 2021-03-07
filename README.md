@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<p align="center">
+  <samp>
+    Hi, I'm Elvis! 👋 <br>
+    :sparkles: Favorite Tech: JavaScript, React, Typescript, React Native, Node <br>
+    :email:	ciuffetellielvis@gmail.com <br>
+    :art: Portfolio: https://elvisciuffetelli.com <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/elvis-ciuffetelli/ <br>
+  </samp>
+</p>
+
 <!--
 **elvisciuffetelli/elvisciuffetelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
