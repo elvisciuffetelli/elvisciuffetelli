@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    Hi, I'm Elvis! 👋 <br>
+    Hi, I'm Elvis, Software developer from Italy 👋 <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript, React Native, Node <br>
     :email:	ciuffetellielvis@gmail.com <br>
     :art: Portfolio: https://elvisciuffetelli.com <br>
