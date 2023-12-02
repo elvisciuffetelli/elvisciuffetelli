@@ -6,4 +6,4 @@ Currently working in JavaScript, mainly with NextJS, React, React Native, Node.
 
 ![Elvis GitHub stats](https://github-readme-stats-nine-murex-96.vercel.app/api?username=elvisciuffetelli&count_private=true&show_icons=true)
 
-<img src="https://github-readme-stats-nine-murex-96.vercel.app/api/top-langs/?username=elvisciuffetelli&layout=compact" width="auto" />
+<img src="https://github-readme-stats-nine-murex-96.vercel.app/api/top-langs/?username=elvisciuffetelli&&count_private=true&layout=compact" width="auto" />
