@@ -1,26 +1,7 @@
 ### Hi there 👋
+My name is Elvis, I'm an italian software developer.  
+Currently working in JavaScript, mainly with NextJS, React, React Native, Node.  
 
-<p align="center">
-  <samp>
-    Hi, I'm Elvis, Software developer from Italy<br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, React Native, Node <br>
-    :email:	ciuffetellielvis@gmail.com <br>
-    🎨 Portfolio: https://www.elvisciuffetelli.com <br>
-    💼 LinkedIn: https://www.linkedin.com/in/elvis-ciuffetelli/ <br>
-  </samp>
-</p>
+[Visit my website](https://www.elvisciuffetelli.com/) or [follow me on LinkedIn](https://www.linkedin.com/in/elvis-ciuffetelli/)!
 
-<!--
-**elvisciuffetelli/elvisciuffetelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisciuffetelli&theme=radical&layout=compact" width="auto" />
