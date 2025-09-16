@@ -2,7 +2,7 @@
 My name is Elvis, I'm an italian software developer.  
 Currently working in JavaScript, mainly with NextJS, React, React Native, Node.  
 
-[Visit my website](https://elvisciuffetelli.com/) or [follow me on LinkedIn](https://www.linkedin.com/in/elvis-ciuffetelli/)!
+[Visit my website](https://portfolio-psi-inky-jfl4sbzai5.vercel.app/) or [follow me on LinkedIn](https://www.linkedin.com/in/elvis-ciuffetelli/)!
 
 ### My Github Stats
 
